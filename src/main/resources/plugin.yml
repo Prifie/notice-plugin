@@ -1,0 +1,6 @@
+name: noticePlugin
+version: '1.0-SNAPSHOT'
+main: net.bricn.noticePlugin.NoticePlugin
+api-version: '1.21'
+authors: [ enbraining ]
+website: bricn.net
