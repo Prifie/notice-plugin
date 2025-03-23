@@ -27,7 +27,7 @@ class NoticePlugin: JavaPlugin() {
     }
 
     private fun sendHyperlink(){
-        val message = TextComponent("프리파이 야생 서버입니다.")
+        val message = TextComponent("프리파이 야생 서버입니다.  ")
         message.color = ChatColor.GRAY
 
         val link = TextComponent("디스코드 링크")
